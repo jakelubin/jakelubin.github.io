@@ -2,11 +2,13 @@ body {
     background: #01212B;
     font-family: "Arial Black";
     text-align: center;
-    h1{
-    	background: red;
-    	text-weight:900;
-    }
-    h2{
-    	text-weight:500;
-    }
 }
+h1{
+	background: #A8B3A4;
+    	text-weight:900;
+}
+
+h2{
+	text-weight:500;
+}
+
