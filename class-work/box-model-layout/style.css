@@ -1,8 +1,16 @@
-body{
+div{
 	background-color: 222 222 222;
+	margin:: 20px; 
 }
-
-a{
+h3{
 	background-color: black;
+}
+a{
 	color:white;
+	text-align:middle;
+}
+div.p{
+	text-align:center;
+	color: black;
+	background-color: red;
 }
