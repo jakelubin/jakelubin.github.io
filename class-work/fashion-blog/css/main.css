@@ -14,7 +14,7 @@ h2{
 	padding: 10px 0px;
 }
 .continue{
-	padding: 10px 0px;
+	padding-top: 10px;
 	text-align: right;
 	color:red;
 	font-weight: 900;
@@ -26,6 +26,7 @@ h2{
 	font-size: 24px;
 }
 .date{
+	padding-top:10px;
 	color:#cccccc;
 }
 footer{
