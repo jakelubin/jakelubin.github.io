@@ -5,19 +5,26 @@ body{
 	line-height: 1.5;
 	border-left: solid 6px #dddddd;
 }
-
+h1{
+	padding:50px;
+	color:red;
+}
 h2{
 	color:black;
 }
 .continue{
 	text-align: right;
 	color:red;
-	font-weight: 800;
+	font-weight: 900;
 }
 .title{
+	padding:30px;
 	color:black;
+	font-weight:800;
+	font-size: 24px;
 }
 .date{
+	padding:10px;
 	color:#cccccc;
 }
 footer{
@@ -34,4 +41,7 @@ a.link.nav{
 }	
 a.hover.nav{
 	color:black;
+}
+img{
+	padding: 24px;
 }
