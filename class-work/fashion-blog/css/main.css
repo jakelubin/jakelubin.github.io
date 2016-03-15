@@ -23,11 +23,10 @@ h2{
 	padding: 24px 0px;
 	color:black;
 	font-weight:800;
-	font-size: 62px;
-}
+	font-size: 44px;
 .date{
 	padding-top:24px;
-	font-size:54px;
+	font-size:34px;
 	color:#cccccc;
 }
 footer{
@@ -48,4 +47,7 @@ a.hover.nav{
 }
 img{
 	padding: 24px 0px;
+}
+.line{
+	border-top: solid 1px #dddddd;
 }
