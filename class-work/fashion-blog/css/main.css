@@ -24,6 +24,7 @@ h2{
 	color:black;
 	font-weight:800;
 	font-size: 44px;
+}
 .date{
 	padding-top:24px;
 	font-size:34px;
@@ -49,5 +50,5 @@ img{
 	padding: 24px 0px;
 }
 .line{
-	border-top: solid 1px #dddddd;
+	border-top: solid 3px #dddddd;
 }
