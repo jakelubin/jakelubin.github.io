@@ -3,9 +3,11 @@ body{
 	padding: 54px;
 	font-family: Lato, Sans-serif;
 	border-style: left, solid, 6px, #dddddd
-
 }
 
 h2{
 	color:black;
+}
+.continue{
+	align-content: right;
 }
