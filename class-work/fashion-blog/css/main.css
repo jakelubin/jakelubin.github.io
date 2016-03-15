@@ -2,8 +2,8 @@ body{
 	max-width: 720px;
 	padding: 54px;
 	font-family: Lato, Sans-serif;
-	border: solid 6px #dddddd
-	line-height:1.5;
+	line-height: 1.5;
+	border: solid 6px #dddddd;
 }
 
 h2{
