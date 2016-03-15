@@ -1,0 +1,11 @@
+body{
+	max-width: 720px;
+	padding: 54px;
+	font-family: Lato, Sans-serif;
+	border-style: left, solid, 6px, #dddddd
+
+}
+
+h2{
+	color:black;
+}
