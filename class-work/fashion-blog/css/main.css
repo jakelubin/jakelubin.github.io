@@ -3,6 +3,7 @@ body{
 	padding: 54px;
 	font-family: Lato, Sans-serif;
 	border-style: left, solid, 6px, #dddddd
+	line-height:150%;
 }
 
 h2{
@@ -10,4 +11,19 @@ h2{
 }
 .continue{
 	text-align: right;
+	color:red;
+	font-weight: 500
+}
+.title{
+	color:black;
+}
+.date{
+	color:#cccccc;
+}
+nav{
+	color:red;
+	text-decoration: underline;
+}
+footer{
+	color:#bbbbbb;
 }
