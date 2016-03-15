@@ -6,25 +6,26 @@ body{
 	border-left: solid 6px #dddddd;
 }
 h1{
-	padding:50px;
 	color:red;
+	padding: 20px 0px;
 }
 h2{
 	color:black;
+	padding: 10px 0px;
 }
 .continue{
+	padding: 10px 0px;
 	text-align: right;
 	color:red;
 	font-weight: 900;
 }
 .title{
-	padding:30px;
+	padding: 24px 0px;
 	color:black;
 	font-weight:800;
 	font-size: 24px;
 }
 .date{
-	padding:10px;
 	color:#cccccc;
 }
 footer{
@@ -43,5 +44,5 @@ a.hover.nav{
 	color:black;
 }
 img{
-	padding: 24px;
+	padding: 24px 0px;
 }
