@@ -3,4 +3,12 @@
 // font-family: 'Merriweather', serif;
 // font-family: 'Source Sans Pro', sans-serif;
 
-background:img src="img/coworking.jpg"
+h1{
+	float: left;
+}
+nav{
+	float:right;
+}
+div.main{
+	background-image:url("img/coworking.jpg");
+}
