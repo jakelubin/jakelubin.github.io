@@ -2,6 +2,7 @@ header{
 	background-color: black;
 	overflow: auto;
 	padding:10px 10px;
+	margin:nones;
 }
 h1{
 	color: yellow;
@@ -32,6 +33,7 @@ p{
 	background-color:  #C6C6C6;
 	font-family: "Merriweather";
 	padding: 20px;
+	margin: none;
 }
 .button{
 	background-color: yellow;
