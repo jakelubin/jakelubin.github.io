@@ -12,7 +12,7 @@ nav{
 .main{
 	background-image:url("img/coworking.jpg");
 }
-span.taste{
+div.main span.taste{
 	text-decoration: line-through;
 }
 span.are{
