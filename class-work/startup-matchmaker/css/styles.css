@@ -1,7 +1,6 @@
 
 h1{
 	font-family: "Merriweather", serif;
-	float: left;
 }
 nav{
 	float:right;
@@ -11,11 +10,11 @@ nav{
 	clear:both;
 	background-image:"img/coworking.jpg";
 }
-p span.taste{
+span.taste{
 	clear:both;
 	text-decoration: line-through;
 }
-p span.are{
+span.are{
 	text-decoration: underline;
 }
 p{
@@ -24,7 +23,7 @@ p{
 	background-color:  #C6C6C6;
 	font-family: "Merriweather";
 }
-body.main.box.button{
+.button{
 	background-color: yellow;
 }
 .box{
