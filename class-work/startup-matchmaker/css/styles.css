@@ -9,7 +9,7 @@ header{
 }
 .main{
 	clear:both;
-	background-image:url("img/coworking.jpg");
+	background-image:"img/coworking.jpg";
 }
 div.main span.taste{
 	clear:both;
@@ -17,4 +17,16 @@ div.main span.taste{
 }
 span.are{
 
+}
+p{
+	text-align: center;
+	background-color:  #C6C6C6;
+	font-family: "Merriweather";
+}
+body.main.box.button{
+	background-color: yellow;
+}
+body.main.box{
+	background-color: rgba(192,192,192,0.3);
+	float:right;
 }
