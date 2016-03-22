@@ -1,11 +1,10 @@
-header{
-	h1{
-		font-family: "Merriweather", serif;
-	}
-	nav{
-		float:right;
-		font-family: "Oswald";
-	}
+
+h1{
+	font-family: "Merriweather", serif;
+}
+nav{
+	float:right;
+	font-family: "Oswald";
 }
 .main{
 	clear:both;
