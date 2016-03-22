@@ -20,11 +20,11 @@ nav{
 	background:url(../img/coworking.jpg);
 	padding:20px;
 }
-span#taste{
+#taste{
 	clear:both;
 	text-decoration: line-through;
 }
-span#are{
+#are{
 	text-decoration: underline;
 }
 p{
