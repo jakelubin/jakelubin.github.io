@@ -16,7 +16,7 @@ nav{
 	float:right;
 }
 .main{
-	clear:both;
+	overflow: auto;
 	background:url(../img/coworking.jpg);
 	padding:20px;
 }
