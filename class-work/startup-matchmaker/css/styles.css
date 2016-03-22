@@ -1,12 +1,15 @@
 header{
 	h1{
 		float: left;
+		font-family: "Merriweather", serif;
 	}
 	nav{
 		float:right;
+		font-family: "Oswald";
 	}
 }
 .main{
+	clear:both;
 	background-image:url("img/coworking.jpg");
 }
 div.main span.taste{
