@@ -26,6 +26,8 @@ p{
 .button{
 	background-color: yellow;
 	font-family: "Oswald";
+	text-align: center;
+	width: 400px;
 }
 .box{
 	background-color: rgba(192,192,192,0.3);
