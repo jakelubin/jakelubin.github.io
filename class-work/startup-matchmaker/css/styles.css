@@ -7,6 +7,7 @@ h1{
 	color: yellow;
 	float:left;
 	font-family: "Merriweather", serif;
+	font-size:12px;
 }
 nav{
 	font-family: "Oswald";
@@ -16,6 +17,7 @@ nav{
 .main{
 	clear:both;
 	background-image:"img/coworking.jpg";
+	padding:20px;
 }
 span.taste{
 	clear:both;
@@ -40,7 +42,7 @@ p{
 .box{
 	background-color: rgba(192,192,192,0.3);
 	float:right;
-	padding-right: 20px;
+	padding: 20px;
 	width: 500px;
 	font-family: "Oswald";
 }
