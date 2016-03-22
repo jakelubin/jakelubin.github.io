@@ -9,6 +9,7 @@ h1{
 nav{
 	font-family: "Oswald";
 	color: white;
+	float:right;
 }
 .main{
 	clear:both;
