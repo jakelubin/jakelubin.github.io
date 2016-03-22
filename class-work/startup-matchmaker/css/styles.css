@@ -1,9 +1,10 @@
-
-h1{
-	float: left;
-}
-nav{
-	float:right;
+header{
+	h1{
+		float: left;
+	}
+	nav{
+		float:right;
+	}
 }
 .main{
 	background-image:url("img/coworking.jpg");
