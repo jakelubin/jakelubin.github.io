@@ -9,6 +9,12 @@ h1{
 nav{
 	float:right;
 }
-div.main{
+.main{
 	background-image:url("img/coworking.jpg");
+}
+.taste{
+	text-decoration: line-through;
+}
+.are{
+
 }
