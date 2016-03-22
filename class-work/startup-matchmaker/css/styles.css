@@ -13,6 +13,7 @@ header{
 	background-image:url("img/coworking.jpg");
 }
 div.main span.taste{
+	clear:both;
 	text-decoration: line-through;
 }
 span.are{
