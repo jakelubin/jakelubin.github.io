@@ -1,6 +1,7 @@
 
 h1{
 	font-family: "Merriweather", serif;
+	float: left;
 }
 nav{
 	float:right;
@@ -18,6 +19,7 @@ p span.are{
 	text-decoration: underline;
 }
 p{
+	clear:both;
 	text-align: center;
 	background-color:  #C6C6C6;
 	font-family: "Merriweather";
