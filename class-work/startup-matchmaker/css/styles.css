@@ -17,7 +17,7 @@ nav{
 }
 .main{
 	clear:both;
-	background-image:"img/coworking.jpg";
+	background:url(../img/coworking.jpg);
 	padding:20px;
 }
 span.taste{
