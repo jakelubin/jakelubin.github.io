@@ -6,8 +6,8 @@ function changecolor(){
 	var g=document.getElementById('green').value
 	var b=document.getElementById('blue').value
 	var colorStr='rgb('+r+', '+g+', '+b+')'
-	getElementById('colorful-text').innerHTML=colorStr
-	colorStr.style.background('wrapper')
+	document.getElementById('colorful-text').innerHTML=colorStr
+	document.getElementById('wrapper').style.backgroundColor=colorStr
 }
 // 3. Inside of the function changeColor, use variables to store the <input> values from #red, #green, and #blue
 // - Use .value to get the values from the inputs
