@@ -11,3 +11,45 @@
 // - .click()
 // - . text() or .html()
 // - .css()
+
+$(document).ready()
+	var count=0
+	$('#a10').click(add10)
+	$('#a20').click(add20)
+	$('#a30').click(add30)
+	$('#n10').click(sub10)
+	$('#n20').click(sub20)
+	$('#n30').click(sub30)
+	$('#red').click(red)
+	$('#blue').click(blue)
+	$('#out').click(white)
+	function add10(){
+		count=count+10
+		$('#out').text(count)
+	}
+	function add20(){
+		count=count+20
+		$('#out').text(count)
+	}
+	function add30(){
+		count=count+30
+		$('#out').text(count)
+	}function sub10(){
+		count=count-10
+		$('#out').text(count)
+	}function sub20(){
+		count=count-20
+		$('#out').text(count)
+	}function sub30(){
+		count=count-30
+		$('#out').text(count)
+	}
+	function red(){
+		$('#out').css('background-color', 'red')
+	}
+	function blue(){
+		$('#out').css('background-color', 'blue')
+	}
+	function white(){
+		$('#out').css('background-color', 'white')
+	}
