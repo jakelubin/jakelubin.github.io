@@ -20,7 +20,7 @@ $(document).ready(function () {
 		newentry=parseFloat(newentry)
 		$('#entries').append('<tr><td></td><td>'+newentry+'</td></tr>')
 		total= total+newentry
-		$('#total').text(total)
+		$('#total').text('$'+total)
 		$('#newEntry').val('')
 	})
 })
