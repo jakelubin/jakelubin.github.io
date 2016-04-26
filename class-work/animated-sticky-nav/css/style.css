@@ -4,4 +4,10 @@
 
 header {
 	background: blue;
+	position: fixed;
+	width:100%;
+	top: 0;
+}
+body {
+	margin-top: 16px
 }
