@@ -1,0 +1,9 @@
+#main{
+	background-image: url('../img/bg1.png');
+	height: 10000px;
+	width: 100%;
+	position: absolute
+}
+img{
+	position: absolute;
+}
